@@ -3,7 +3,8 @@ The FM Calculator (Financial Management Calculator) is a simple website that hel
 their monthly income into three primary financial categories — Needs, Wants, and Investments — following the widely recommended 50/30/20 budgeting rule. 
 It further breaks down the investment portion into multiple asset classes like mutual funds,debt funds,stocks,FD and gold funds to promote smart financial planning.
 
-🔗 **live Demo**: [click here to visit the website](https://sanchitumrao.github.io/FM-Calculator/)
+🔗 **live Demo**: [click here to visit the website](https://sanchitumrao.github.io/FM-Calculator/)  
+<img src="demo.png" width=50%>
 
 ---
 
